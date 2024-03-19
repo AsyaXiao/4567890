@@ -5,4 +5,4 @@ set(CMAKE_CXX_STANDARD 14)
 
 add_executable(Midterm
         mid.cpp
-        mid1.cpp)
+)
